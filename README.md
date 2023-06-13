@@ -1,4 +1,3 @@
-Certainly! Here's an example of a README file for your Chrome extension:
 
 # Picture-in-Picture with Media Controls Chrome Extension
 
